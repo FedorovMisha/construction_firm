@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionFirm.Forms", "ConstructionFirm.Forms\ConstructionFirm.Forms.csproj", "{E281A440-FB6B-4860-946F-88C571DD9D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionFirm.Bl", "ConstructionFirm.Bl\ConstructionFirm.Bl.csproj", "{3DFB6115-991B-4408-899E-9D62D4F90174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E281A440-FB6B-4860-946F-88C571DD9D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E281A440-FB6B-4860-946F-88C571DD9D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E281A440-FB6B-4860-946F-88C571DD9D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E281A440-FB6B-4860-946F-88C571DD9D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFB6115-991B-4408-899E-9D62D4F90174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFB6115-991B-4408-899E-9D62D4F90174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFB6115-991B-4408-899E-9D62D4F90174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFB6115-991B-4408-899E-9D62D4F90174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
